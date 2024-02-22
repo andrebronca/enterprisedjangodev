@@ -1,21 +1,36 @@
+última página lida: 49
+
 Título: Becoming an Enterprise Django Developer
 Autor: Michael Dinder
 Edition: 1
 Ano de publicação: 2022
 Total de páginas: 526
 Exemplos testados no livro:
-    Python 3.9
+    Python 3.9.0
     Windows 11
     Django 4.0
 Download de códigos dos exemplos:
-    https://github.com/PacktPublishing/Becoming-an-Enterprise-DjangoDeveloper
+    https://github.com/PacktPublishing/Becoming-an-Enterprise-Django-Developer
 
 Vídeos: 
     https://bit.ly/3HQDP9Z
+
+    https://www.youtube.com/watch?v=kGJiwVQC-k8&list=PLeLcvrwLe184Ws5cDLqQc1DxvuENJKlvf&index=2
 
 Download de imagens:
     https://static.packt-cdn.com/downloads/9781801073639_ColorImages.pdf
 
 Errata:
     www.packtpub.com/support/errata
+
+Utiliza para hospedagem: heroku (utilizarei o github, tenho conta no heroku)
+
+Instalado:
+    https://pypi.org/project/black/
+
+Recomendação de padrão de codificação:
+    https://www.python.org/dev/peps/pep-0008/
+
+Repositório de Pacotes:
+    https://pypi.org/
 
